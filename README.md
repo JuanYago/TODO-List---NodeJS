@@ -1,2 +1,2 @@
 # TODO-List---NodeJS
-O projeto é uma aplicação web que permite aos usuários criar, visualizar, atualizar e excluir listas de tarefas (to-do lists). É construído usando Node.js e Express, que são frameworks populares para a construção de aplicativos web em JavaScript.
+Este projeto de To-Do List (lista de tarefas) desenvolvido com Node.js, Express e MongoDB é uma aplicação web que permite aos usuários criar, editar, marcar como concluídas e excluir tarefas. Abaixo está um resumo das principais funcionalidades e tecnologias utilizadas:
